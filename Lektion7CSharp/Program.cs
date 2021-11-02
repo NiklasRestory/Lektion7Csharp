@@ -10,6 +10,7 @@ namespace Lektion7CSharp
             int four = 4;
             Console.WriteLine("Printing number " + five);
             Console.WriteLine("This is a change.");
+            Console.WriteLine("This is another change.");
         }
     }
 }
