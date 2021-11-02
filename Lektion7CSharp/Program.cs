@@ -11,6 +11,7 @@ namespace Lektion7CSharp
             Console.WriteLine("Printing number " + five);
             Console.WriteLine("This is a change.");
             Console.WriteLine("This is another change.");
+            Console.WriteLine("This is yet another change.");
         }
     }
 }
