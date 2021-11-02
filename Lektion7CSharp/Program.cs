@@ -7,6 +7,7 @@ namespace Lektion7CSharp
         static void Main(string[] args)
         {
             int five = 5;
+            int four = 4;
             Console.WriteLine("Printing number " + five);
         }
     }
