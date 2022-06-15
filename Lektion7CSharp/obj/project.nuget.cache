@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2UQM1VEpXap/h0JYNSGXuZpKl9/52M/vNKAxdTLVi2dLLpkeTMmn3dREaHTjb+XsE5IqcauE76sB1t6b5topSQ==",
+  "dgSpecHash": "3yWg7bVrkAa27xXo7QhaXDuT76Nt77ttrPh2xMj/dz7FVdy8Q9uWi+nLUglBqrfXbV0GvigJiPi+r9KdUtuIvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nikla\\Git\\Lektion7\\Lektion7CSharp\\Lektion7CSharp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\nikla\\Git\\Something\\Lektion7Csharp\\Lektion7CSharp\\Lektion7CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikla\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }
