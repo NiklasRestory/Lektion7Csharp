@@ -6,7 +6,7 @@ namespace Lektion7CSharp
 {
     class Employee : Person
     {
-        public Employee(string name): base(name)
+        public Employee(string name, int age): base(name)
         {
 
         }
